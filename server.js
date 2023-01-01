@@ -6,5 +6,5 @@ app.listen(8080, function(){
 });
 
 app.get("/" , function(req,res){
-    res.sendFile(__dirname+"/public/index.html");
+    res.sendFile(__dirname+"/index.html");
 });

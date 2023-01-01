@@ -1,7 +1,7 @@
 {
   "name": "229018_bhagyashri",
   "version": "1.0.0",
-  "description": "",
+  "description": "- 👋 Hi, I’m @209Bhagyashri\r - 👀 I’m interested in ...\r - 🌱 I’m currently learning Full Stack Development\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/209Bhagyashri/209Bhagyashri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/209Bhagyashri/209Bhagyashri/issues"
+  },
+  "homepage": "https://github.com/209Bhagyashri/209Bhagyashri#readme"
 }
